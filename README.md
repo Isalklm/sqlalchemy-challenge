@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sqlalchemy-challenge
 
 ## Project Overview
@@ -72,3 +73,6 @@ The project contains the following files and directories:
 ---
 
 
+=======
+# sqlalchemy-challenge
+>>>>>>> da34df60aaf00eccea98702aa05fde60d0698e7c
